@@ -1,0 +1,5 @@
+#Ignore python configuration files
+venv
+.DS_Store
+.idea
+capa_datos.log
